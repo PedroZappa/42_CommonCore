@@ -40,6 +40,14 @@ This project contains the coursework developed during 42's Common Core.
 
 | Challenge | Language | Activity |
 | --- | --- | --- |
-| <a href="https://github.com/PedroZappa/42-sogrape-hackathon">Sogrape's Hackathon</a> | <img src="https://img.shields.io/github/languages/top/PedroZappa/42-sogrape-hackathon" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/libft" /> |
+| <a href="https://github.com/PedroZappa/42-sogrape-hackathon">Sogrape's Hackathon</a> | <img src="https://img.shields.io/github/languages/top/PedroZappa/42-sogrape-hackathon" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42-sogrape-hackathon" /> |
 
 </div>
+
+___
+
+### License
+
+This work is published under the terms of <a href="https://github.com/PedroZappa/ft_printf/blob/master/LICENSE">42 Unlicense</a>.
+
+<p align="right">(<a href="#readme-top">get to top</a>)</p>
