@@ -17,15 +17,15 @@ ___
 	</p>
 <div/>
 
-<div align=left>
+<div align=center>
 
 ## About
 
 This project contains the coursework developed during 42's Common Core.
 
-## Projects
-
 <div align="center">
+
+## Projects
 
 | Project | Rank | Language | Score | Activity |
 | --- | --- | --- | --- | --- |
@@ -34,9 +34,10 @@ This project contains the coursework developed during 42's Common Core.
 
 </div>
 
+<div align="center">
+
 ## Challenges
 
-<div align="center">
 
 | Challenge | Language | Activity |
 | --- | --- | --- |
