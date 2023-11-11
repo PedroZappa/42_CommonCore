@@ -2,30 +2,26 @@
 <div align="center">
 <h1>42 Common Core 🌀</h1>
 
-
+<h3 align=center>Table o'Contents</h3>
 <p>
-    <img src="https://img.shields.io/github/last-commit/PedroZappa/42_CommonCore?style=for-the-badge" />
+    ~
+    <a href="#about-pushpin">About</a> ~
+    <a href="#Projects-checkered_flag">Projects</a> ~
+    <a href="#Challenges-zap">Challenges</a> ~
 </p>
+<div/>
 
 ___
 
-<h3 align=center>Table o´Contents</h3>
-	<p>
-		~
-		<a href="#about">About</a> ~
-		<a href="#usage">Projects</a> ~
-	</p>
-<div/>
-
 <div align=center>
 
-## About
+## About :pushpin:
 
 This project contains the coursework developed during 42's Common Core.
 
 <div align="center">
 
-## Projects
+## Projects :checkered_flag:
 
 | Project | Rank | Language | Score | Activity |
 | --- | --- | --- | --- | --- |
@@ -36,7 +32,7 @@ This project contains the coursework developed during 42's Common Core.
 
 <div align="center">
 
-## Challenges
+## Challenges :zap:
 
 
 | Challenge | Language | Activity |
@@ -47,7 +43,7 @@ This project contains the coursework developed during 42's Common Core.
 
 ___
 
-### License
+### License :copyright:
 
 This work is published under the terms of <a href="https://github.com/PedroZappa/ft_printf/blob/master/LICENSE">42 Unlicense</a>.
 
