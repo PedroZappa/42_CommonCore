@@ -17,7 +17,7 @@ ___
 
 ## About :pushpin:
 
-This project contains the coursework developed during 42's Common Core.
+This repository contains the coursework developed for 42's Common Core.
 
 <div align="center">
 
@@ -27,6 +27,8 @@ This project contains the coursework developed during 42's Common Core.
 | ---                                                             | ---  | ---                                                                            | ---                                                                            | ---                                                                      |
 | <a href="https://github.com/PedroZappa/libft">libft</a>         | 0    | <img src="https://img.shields.io/github/languages/top/PedroZappa/libft" />     | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/libft" /> |
 | <a href="https://github.com/PedroZappa/ft_printf">ft_printf</a> | 1    | <img src="https://img.shields.io/github/languages/top/PedroZappa/ft_printf" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/libft" /> |
+| <a href="https://github.com/PedroZappa/get_next_line">get_next_line</a> | 1    | <img src="https://img.shields.io/github/languages/top/PedroZappa/get_next_line" /> | <img src="https://img.shields.io/badge/...%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/get_next_line" /> |
+
 
 </div>
 
