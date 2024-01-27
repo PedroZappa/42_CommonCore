@@ -48,6 +48,7 @@ This repository contains the coursework developed for 42's Common Core.
 
 | Exam                                                                                       | Rank | Score                                                   |
 | ---                                                                                        | ---  | ---                                                     |
+| <a href="https://github.com/PedroZappa/42ExamPrep">Exam Prep</a> | ...    | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
 | <a href="https://github.com/PedroZappa/42ExamPrep/tree/main/Rank_2">Exam Rank 2</a> | 2    | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
 
 ___
