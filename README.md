@@ -8,6 +8,7 @@
     <a href="#about-pushpin">About</a> ~
     <a href="#Projects-checkered_flag">Projects</a> ~
     <a href="#Challenges-zap">Challenges</a> ~
+    <a href="#Exams-computer">Exams</a> ~
 </p>
 <div/>
 
@@ -44,7 +45,7 @@ This repository contains the coursework developed for 42's Common Core.
 
 </div>
 
-## Exams 🖳 
+## Exams :computer: 
 
 - <a href="https://github.com/PedroZappa/42ExamPrep">Exam Prep</a>
 - <a href="https://github.com/PedroZappa/42ExamPrep/tree/main/Rank_2">Exam Rank 2</a>
