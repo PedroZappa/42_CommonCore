@@ -47,9 +47,8 @@ This repository contains the coursework developed for 42's Common Core.
 
 ## Exams :computer: 
 
-| Exams |
-| ----- |
 | <a href="https://github.com/PedroZappa/42ExamPrep">Exam Prep</a> |
+| ----- |
 | <a href="https://github.com/PedroZappa/42ExamPrep/tree/main/Rank_2">Exam Rank 2</a> |
 
 ___
