@@ -46,7 +46,7 @@ This repository contains the coursework developed for 42's Common Core.
 
 | Challenge                                                                            | Language                                                                                  | Activity                                                                                |
 | ---                                                                                  | ---                                                                                       | ---                                                                                     |
-| <a href="https://github.com/PedroZappa/42-sogrape-hackathon">Sogrape's Hackathon</a> | <img src="https://img.shields.io/github/languages/top/PedroZappa/42-sogrape-hackathon" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42-sogrape-hackathon" /> |
+| <a href="https://github.com/PedroZappa/42_sogrape_hackathon">Sogrape's Hackathon</a> | <img src="https://img.shields.io/github/languages/top/PedroZappa/42-sogrape-hackathon" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42-sogrape-hackathon" /> |
 
 </div>
 
