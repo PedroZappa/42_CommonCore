@@ -30,6 +30,9 @@ This repository contains the coursework developed for 42's Common Core.
 | <a href="https://github.com/PedroZappa/ft_printf">ft_printf</a> | 1    | <img src="https://img.shields.io/github/languages/top/PedroZappa/ft_printf" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/ft_printf" /> |
 | <a href="https://github.com/PedroZappa/get_next_line">get_next_line</a> | 1    | <img src="https://img.shields.io/github/languages/top/PedroZappa/get_next_line" /> | <img src="https://img.shields.io/badge/112%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/get_next_line" /> |
 | <a href="https://github.com/PedroZappa/Born2beRoot">Born2beRoot</a> | 1    | <img src="https://img.shields.io/github/languages/top/PedroZappa/Born2beRoot" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/Born2beRoot" /> |
+| <a href="https://github.com/PedroZappa/42_fractol">fract'ol</a> | 2    | <img src="https://img.shields.io/github/languages/top/PedroZappa/42_fractol" /> | <img src="https://img.shields.io/badge/...%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42_fractol" /> |
+| <a href="https://github.com/PedroZappa/42_minitalk">minitalk</a> | 2    | <img src="https://img.shields.io/github/languages/top/PedroZappa/42_minitalk" /> | <img src="https://img.shields.io/badge/...%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42_minitalk" /> |
+
 
 
 </div>
