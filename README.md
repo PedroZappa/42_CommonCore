@@ -3,13 +3,16 @@
 <h1>42 Common Core 🌀</h1>
 
 <h3 align=center>Table o'Contents</h3>
-<p>
-    ~
-    <a href="#about-pushpin">About</a> ~
-    <a href="#Projects-checkered_flag">Projects</a> ~
-    <a href="#Challenges-zap">Challenges</a> ~
-    <a href="#Exams-computer">Exams</a> ~
-</p>
+
+<!-- mtoc-start -->
+
+* [About :pushpin:](#about-pushpin)
+* [Projects :checkered_flag:](#projects-checkered_flag)
+* [Challenges :zap:](#challenges-zap)
+* [Exams :computer: ](#exams-computer-)
+* [License :copyright:](#license-copyright)
+
+<!-- mtoc-end -->
 <div/>
 
 ___
@@ -56,7 +59,7 @@ This repository contains the coursework developed for 42's Common Core.
 
 ___
 
-### License :copyright:
+## License :copyright:
 
 This work is published under the terms of <a href="https://github.com/PedroZappa/ft_printf/blob/master/LICENSE">42 Unlicense</a>.
 
