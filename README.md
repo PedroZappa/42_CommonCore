@@ -38,6 +38,7 @@ This repository contains the coursework developed for 42's Common Core.
 | <a href="https://github.com/PedroZappa/42_push_swap">push_swap</a> | 2    | <img src="https://img.shields.io/github/languages/top/PedroZappa/42_push_swap" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42_push_swap" /> |
 | <a href="https://github.com/PedroZappa/42_philosophers">philosophers</a> | 3    | <img src="https://img.shields.io/github/languages/top/PedroZappa/42_philosophers" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42_philosophers" /> |
 | <a href="https://github.com/PedroZappa/42_minishell">minishell</a> | 4    | <img src="https://img.shields.io/github/languages/top/PedroZappa/42_minishell" /> | <img src="https://img.shields.io/badge/99%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42_minishell" /> |
+| <a href="https://github.com/PedroZappa/42_cub3d">cub3d</a> | 4    | <img src="https://img.shields.io/github/languages/top/PedroZappa/42_cub3d" /> | <img src="https://img.shields.io/badge/99%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42_cub3d" /> |
 
 
 </div>
