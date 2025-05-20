@@ -39,8 +39,9 @@ This repository contains the coursework developed for 42's Common Core.
 | <a href="https://github.com/PedroZappa/42_philosophers">philosophers</a> | 3    | <img src="https://img.shields.io/github/languages/top/PedroZappa/42_philosophers" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42_philosophers" /> |
 | <a href="https://github.com/PedroZappa/42_minishell">minishell</a> | 4    | <img src="https://img.shields.io/github/languages/top/PedroZappa/42_minishell" /> | <img src="https://img.shields.io/badge/99%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42_minishell" /> |
 | <a href="https://github.com/PedroZappa/42_cub3d">cub3d</a> | 5    | <img src="https://img.shields.io/github/languages/top/PedroZappa/42_cub3d" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42_cub3d" /> |
-| <a href="https://github.com/PedroZappa/42_CPP">C++00-04</a> | 5    | <img src="https://img.shields.io/github/languages/top/PedroZappa/42_CPP" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42_CPP" /> |
+| <a href="https://github.com/PedroZappa/42_CPP">C++00-09</a> | 5    | <img src="https://img.shields.io/github/languages/top/PedroZappa/42_CPP" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42_CPP" /> |
 | <a href="https://github.com/PedroZappa/42_NetPractice">NetPractice</a> | 5    | <img src="https://img.shields.io/github/languages/top/PedroZappa/42_NetPractice" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42_NetPractice" /> |
+| <a href="https://github.com/PedroZappa/42_Webserv">Webserv</a> | 5    | <img src="https://img.shields.io/github/languages/top/PedroZappa/42_Webserv" /> | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/PedroZappa/42_Webserv" /> |
 
 
 </div>
@@ -63,6 +64,8 @@ This repository contains the coursework developed for 42's Common Core.
 | <a href="https://github.com/PedroZappa/42ExamPrep/tree/main/Rank_2">Exam Rank 2</a> |
 | <a href="https://github.com/PedroZappa/42ExamPrep/tree/main/Rank_3">Exam Rank 3</a> |
 | <a href="https://github.com/PedroZappa/42ExamPrep/tree/main/Rank_4">Exam Rank 4</a> |
+| <a href="https://github.com/PedroZappa/42ExamPrep/tree/main/Rank_5">Exam Rank 5</a> |
+| <a href="https://github.com/PedroZappa/42ExamPrep/tree/main/Rank_6">Exam Rank 6</a> |
 
 ___
 
